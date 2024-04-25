@@ -4,19 +4,19 @@ import { Navigation } from "./components/navigation"
 import { Main } from "./components/main"
 import { Contact } from "./components/contact"
 
-import { Router , Route, Routes, BrowserRouter } from "react-router-dom";
+import { Route, Routes, HashRouter } from "react-router-dom";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
         <Navigation />
         <Routes>
-          <Route path="/beardedwrench" element={<Main />} />
-          <Route path="/beardedwrench/contact" element={<Contact />} />
+          <Route path="/" element={<Main />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
