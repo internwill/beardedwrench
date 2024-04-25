@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/beardedwrench/static/css/main.4e538811.css",
-    "main.js": "/beardedwrench/static/js/main.8f8f2586.js",
+    "main.js": "/beardedwrench/static/js/main.ee4e570e.js",
     "static/js/453.ed3810f9.chunk.js": "/beardedwrench/static/js/453.ed3810f9.chunk.js",
     "index.html": "/beardedwrench/index.html",
     "main.4e538811.css.map": "/beardedwrench/static/css/main.4e538811.css.map",
-    "main.8f8f2586.js.map": "/beardedwrench/static/js/main.8f8f2586.js.map",
+    "main.ee4e570e.js.map": "/beardedwrench/static/js/main.ee4e570e.js.map",
     "453.ed3810f9.chunk.js.map": "/beardedwrench/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e538811.css",
-    "static/js/main.8f8f2586.js"
+    "static/js/main.ee4e570e.js"
   ]
 }
